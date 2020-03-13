@@ -6,8 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Default ignored files
+/workspace.xml
+
 # project configs
-/.idea
+.idea
 
 # Distribution / packaging
 .Python
